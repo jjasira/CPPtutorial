@@ -13,5 +13,6 @@ int main()
     // we can also use "&" to get the memory address as follows
 
     cout << &food << "\n";
+    cout << &meal << "\n";
     return 0;
 }
